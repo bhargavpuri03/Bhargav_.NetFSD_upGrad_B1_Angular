@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Travel & Tourism Booking Platform">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkyWay Travels - Booking</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>SkyWay Travels</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Destinations</a> |
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Promotional Video</h2>
+            <video width="500" controls poster="travel.jpg">
+                <source src="travel.mp4" type="video/mp4">
+                Your browser does not support video.
+            </video>
+        </section>
+
+        <section>
+            <h2>Book Your Trip</h2>
+
+            <form>
+
+                <label>Source City</label>
+                <input type="text" name="source" list="cityList" required>
+
+                <label>Destination City</label>
+                <input type="text" name="destination" list="cityList" required>
+
+                <datalist id="cityList">
+                    <option value="Hyderabad">
+                    <option value="Bangalore">
+                    <option value="Chennai">
+                </datalist>
+
+                <label>Departure Date</label>
+                <input type="date" name="departure" required>
+
+                <label>Return Date</label>
+                <input type="date" name="return"
+                       min="2026-01-01" required>
+
+                <label>Travel Class</label>
+                <select name="class" required>
+                    <option value="">Select Class</option>
+                    <option>Economy</option>
+                    <option>Business</option>
+                    <option>First Class</option>
+                </select>
+
+                <label>Preferred Airline</label>
+                <input type="text" name="airline" list="airlineList" required>
+
+                <datalist id="airlineList">
+                    <option value="IndiGo">
+                    <option value="Air India">
+                </datalist>
+
+                <label>Number of Passengers</label>
+                <input type="number" name="passengers"
+                       min="1" max="10" required>
+
+                <label>Meal Preference (Color Tag)</label>
+                <input type="color" name="meal" required>
+
+                <label>Special Assistance Notes</label>
+                <textarea name="notes"
+                          placeholder="Mention wheelchair assistance, medical support"
+                          required></textarea>
+
+                <input type="submit" value="Book Now">
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <audio autoplay loop>
+        <source src="theme.mp3" type="audio/mpeg">
+        <source src="theme.ogg" type="audio/ogg">
+        Your browser does not support audio.
+    </audio>
+
+    <footer>
+        <p>SkyWay Travels</p>
+        <p>Email: support@skyway.com</p>
+        <p
