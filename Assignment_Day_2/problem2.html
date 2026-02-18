@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Online Hospital Appointment Booking">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CityCare Hospital - Appointment</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>CityCare Hospital</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Departments</a> |
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Book Appointment</h2>
+
+            <form>
+
+                <label>Department</label>
+                <input type="text" name="department" list="deptList" required>
+
+                <datalist id="deptList">
+                    <option value="Cardiology">
+                    <option value="Neurology">
+                    <option value="Orthopedics">
+                </datalist>
+<br>
+                <label>Preferred Doctor</label>
+                <input type="text" name="doctor" list="doctorList" required>
+
+                <datalist id="doctorList">
+                    <option value="Dr. bhargav">
+                    <option value="Dr. balu">
+                    <option value="Dr. virat">
+            
+                </datalist><br>
+
+                <label>Appointment Date</label>
+                <input type="date" name="date" min="2026-01-01" required><br>
+
+                <label>Appointment Time</label>
+                <input type="time" name="time" required><br>
+
+                <label>Age</label>
+                <input type="number" name="age" min="0" max="120" required><br>
+
+                <label>Phone Number</label>
+                <input type="tel" name="phone"
+                       pattern="[0-9]{10}" maxlength="10" required><br>
+
+                <label>Email</label>
+                <input type="email" name="email" required><br>
+
+                <label>Upload Medical Reports</label>
+                <input type="file" name="reports" multiple required><br>
+
+                <label>
+                    <input type="checkbox" name="emergency">
+                    Emergency Case
+                </label><br>
+
+                <input type="submit" value="Book Appointment">
+
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>CityCare Hospital, Hyderabad</p>
+        <p>Contact: +91 9876543210</p>
+    </footer>
+
+</body>
+
+</html>

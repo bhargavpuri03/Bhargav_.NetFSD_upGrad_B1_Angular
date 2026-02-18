@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="E-Learning Course Registration Portal">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Certification Portal</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>SkillBoost Academy</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Courses</a> |
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Program Introduction</h2>
+
+            <video width="500" controls poster="intro.jpg">
+                <source src="intro.mp4" type="video/mp4">
+                <source src="intro.webm" type="video/webm">
+                <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English">
+                Your browser does not support video.
+            </video>
+        </section>
+
+        <section>
+            <h2>Course Registration</h2>
+
+            <form>
+
+                <label>Full Name</label>
+                <input type="text" name="name" required>
+
+                <label>Email</label>
+                <input type="email" name="email" required>
+
+                <label>Select Course</label>
+                <input type="text" name="course" list="courseList" required>
+
+                <datalist id="courseList">
+                    <option value="Full Stack Development">
+                    <option value="Data Science">
+                </datalist>
+
+                <label>Select Batch Month</label>
+                <input type="month" name="batch" required>
+
+                <label>Preferred Session Time</label>
+                <input type="time" name="session" required>
+
+                <label>Rate Your Skill Level</label>
+                <input type="range" name="skill" min="1" max="10" value="5">
+
+                <p>Skill Meter:</p>
+                <meter min="1" max="10" value="5"></meter>
+
+                <p>Enrollment Progress</p>
+                <progress value="60" max="100"></progress>
+
+                <input type="submit" value="Enroll Now">
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>SkillBoost Academy</p>
+        <p>Email: support@skillboost.com</p>
+        <p>&copy; 2026 SkillBoost Academy</p>
+    </footer>
+
+</body>
+
+</html>
