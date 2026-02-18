@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Banking Account Opening</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center;">Digital Banking Account Opening</h1>
+    </header>
+
+    <main>
+        <section>
+            <fieldset>
+                <legend>Customer Details</legend>
+                <form action="">
+
+                    <table>
+                        <tr>
+                            <td><label>Fullname</label></td>
+                            <td><input type="text" required placeholder="Enter your Fullname"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">Email</label></td>
+                            <td><input type="email" name="" id="" required placeholder="Enter your Email"></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Phone Number</label></td>
+                            <td><input type="number" name="" id="" pattern="[5-9]{1}[0-9]{9}" placeholder="10 digit mobile number" 
+                                title="Enter valid 10 digit mobile number" required></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">PAN number</label></td>
+                            <td><input type="text" name="" id="" pattern="^[A-Z]{5}[0-9]{4}[A-Z]{1}$"  placeholder="ABCDE1234F"
+                            title="Enter valid PAN (ABCDE1234F)"required></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">IFSC Code</label></td>
+                            <td><input type="text" name="" id="" pattern="^[A-Z]{4}0[A-Z0-9]{6}$" placeholder="SBIN0001234"
+                            title="4 letters + 7 digits"required></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Account type</label></td>
+                            <td>
+                                <input list="accountTypes" placeholder="Select account type" required>
+
+                                <datalist id="accountTypes">
+                                    <option value="Savings">
+                                    <option value="Current">
+                                    <option value="Salary">
+                                    <option value="Fixed Deposit">
+                                </datalist>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">DOB</label></td>
+                            <td><input type="date" name="" id="" max="2008-12-31" required></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Monthly Income</label></td>
+                            <td><input type="number" name="" id="" step="5000" placeholder="Ex: 30000" required></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Upload ID proof</label></td>
+                            <td><input type="file" name="" id=""></td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2" align="center">
+                                <input type="submit" value="Submit">
+                                <input type="reset" value="Clear">
+                            </td>
+                        </tr>
+
+                    </table>
+                </form>
+            </fieldset>
+        </section>
+    </main>
+</body>
+</html>
