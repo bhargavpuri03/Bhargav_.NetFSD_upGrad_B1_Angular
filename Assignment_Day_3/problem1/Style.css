@@ -1,0 +1,77 @@
+h1, h2, h3 {
+    color: #005c99;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #cce6ff;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #005c99;
+    font-weight: bold;
+}
+
+.banner {
+    background-color: #e6f2ff;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+.services {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.services p {
+    font-size: 14px;
+}
+
+.service-card {
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid #4da6ff;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+#contact {
+    background-color: #f2f9ff;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+input[type="text"] {
+    width: 250px;
+    padding: 8px;
+}
+
+button {
+    background-color: #4da6ff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005c99;
+}
+
+footer {
+    background-color: #cce6ff;
+    text-align: center;
+    padding: 10px;
+}
