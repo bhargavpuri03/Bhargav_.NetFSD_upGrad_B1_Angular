@@ -1,0 +1,121 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #003366;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+/* Pseudo-class li:first-child */
+nav li:first-child {
+    font-weight: bold;
+}
+
+/* Pseudo-class a:hover */
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+
+/* Hero Section (ID Selector) */
+#hero {
+    background-color: #e6f2ff;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Button Styling */
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #003366;
+    background-color: #003366;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0055aa;
+}
+
+/* Course Grid Layout using Flexbox */
+.courses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+}
+
+/* Course Card (Class Selector + Box Model) */
+.course {
+    width: 250px;             /* Fixed width */
+    border: 2px solid #003366;
+    padding: 20px;            /* Padding inside */
+    margin: 15px;             /* Margin outside */
+    background-color: white;
+    transition: 0.3s;
+}
+
+/* Child Selector */
+.course > h3 {
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+/* Adjacent Sibling Selector */
+h3 + p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Hover effect on course card */
+.course:hover {
+    background-color: #e6f2ff;
+    transform: scale(1.05);
+}
+
+/* Bonus Challenge */
+/* First Course */
+.course:first-child {
+    background-color: #d1ecf1;
+}
+
+/* Last Course */
+.course:last-child {
+    background-color: #f8d7da;
+}
+
+/* Testimonials */
+#testimonials {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
