@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Notes Saver</title>
+</head>
+<body onload="loadNote()">
+
+<h2>Daily Notes - Bhargav</h2>
+
+<textarea id="note" rows="6" cols="40" placeholder="Write your daily note here..."></textarea>
+<br><br>
+
+<button onclick="saveNote()">Save</button>
+<button onclick="clearNote()">Clear</button>
+
+<p id="message"></p>
+
+<script>
+
+function saveNote() {
+    let text = document.getElementById("note").value
+    localStorage.setItem("dailyNote", text)
+    document.getElementById("message").innerHTML = "Note Saved Successfully"
+}
+
+function loadNote() {
+    let saved = localStorage.getItem("dailyNote")
+    if(saved != null) {
+        document.getElementById("note").value = saved
+    }
+}
+
+function clearNote() {
+    localStorage.removeItem("dailyNote")
+    document.getElementById("note").value = ""
+    document.getElementById("message").innerHTML = "Note Cleared"
+}
+
+</script>
+
+</body>
+</html>
