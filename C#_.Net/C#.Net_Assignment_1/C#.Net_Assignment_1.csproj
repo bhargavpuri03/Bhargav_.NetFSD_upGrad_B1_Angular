@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>C_.Net_Assignment_1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>C_.Net_Assignment_1.vowel_check</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="area.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="area.cs" />
+  </ItemGroup>
+
+</Project>
