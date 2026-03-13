@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\c#.net_assignment_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:c#.net_assignment_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\patientrecord1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:patientrecord1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\nurse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:nurse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\billing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:billing1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\c#.net_assignment_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:c#.net_assignment_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\medicaltest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:medicaltest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\hospital1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:hospital1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\appointement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:appointement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\doctor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:doctor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A87E29-A085-4F07-B5BE-AC3F58038B73}|C#.Net_Assignment_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C#.Net_Assignment_2",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\C#.Net_Assignment_2.csproj",
+              "RelativeDocumentMoniker": "C#.Net_Assignment_2.csproj",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\C#.Net_Assignment_2.csproj*",
+              "RelativeToolTip": "C#.Net_Assignment_2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T04:12:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C#.Net_Assignment_2",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\C#.Net_Assignment_2.csproj",
+              "RelativeDocumentMoniker": "C#.Net_Assignment_2.csproj",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\C#.Net_Assignment_2.csproj",
+              "RelativeToolTip": "C#.Net_Assignment_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T04:16:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRecord1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\PatientRecord1.cs",
+              "RelativeDocumentMoniker": "PatientRecord1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\PatientRecord1.cs",
+              "RelativeToolTip": "PatientRecord1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:15:41.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nurse1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Nurse1.cs",
+              "RelativeDocumentMoniker": "Nurse1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Nurse1.cs",
+              "RelativeToolTip": "Nurse1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:14:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Billing1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Billing1.cs",
+              "RelativeDocumentMoniker": "Billing1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Billing1.cs",
+              "RelativeToolTip": "Billing1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:14:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalTest1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\MedicalTest1.cs",
+              "RelativeDocumentMoniker": "MedicalTest1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\MedicalTest1.cs",
+              "RelativeToolTip": "MedicalTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:13:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointement1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Appointement1.cs",
+              "RelativeDocumentMoniker": "Appointement1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Appointement1.cs",
+              "RelativeToolTip": "Appointement1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:12:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hospital1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Hospital1.cs",
+              "RelativeDocumentMoniker": "Hospital1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Hospital1.cs",
+              "RelativeToolTip": "Hospital1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:11:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Doctor1.cs",
+              "RelativeDocumentMoniker": "Doctor1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Doctor1.cs",
+              "RelativeToolTip": "Doctor1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:11:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:04:50.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
