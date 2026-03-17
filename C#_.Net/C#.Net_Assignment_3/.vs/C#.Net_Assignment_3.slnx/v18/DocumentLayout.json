@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_3\\c#.net_assignment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|solutionrelative:c#.net_assignment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_3\\vehicle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|solutionrelative:vehicle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4130A7DB-7253-4A38-B874-CE0BD9652FA1}|C#.Net_Assignment_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vehicle1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\vehicle1.cs",
+              "RelativeDocumentMoniker": "vehicle1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\vehicle1.cs",
+              "RelativeToolTip": "vehicle1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:53:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C#.Net_Assignment_3",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\C#.Net_Assignment_3.csproj",
+              "RelativeDocumentMoniker": "C#.Net_Assignment_3.csproj",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\C#.Net_Assignment_3.csproj",
+              "RelativeToolTip": "C#.Net_Assignment_3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T04:52:56.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Assignment_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:38:34.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
