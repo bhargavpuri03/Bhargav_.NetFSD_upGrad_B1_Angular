@@ -1,0 +1,14 @@
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.AssemblyInfo.cs
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\bin\Debug\net10.0\C#.Net_Assignment_5.exe
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\bin\Debug\net10.0\C#.Net_Assignment_5.deps.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\bin\Debug\net10.0\C#.Net_Assignment_5.runtimeconfig.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\bin\Debug\net10.0\C#.Net_Assignment_5.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\bin\Debug\net10.0\C#.Net_Assignment_5.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\refint\C#.Net_Assignment_5.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\C#.Net_Assignment_5.genruntimeconfig.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_5\obj\Debug\net10.0\ref\C#.Net_Assignment_5.dll

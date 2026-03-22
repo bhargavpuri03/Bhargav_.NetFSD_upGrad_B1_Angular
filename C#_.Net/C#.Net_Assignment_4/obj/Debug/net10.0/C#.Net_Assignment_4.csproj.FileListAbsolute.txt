@@ -1,0 +1,14 @@
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\bin\Debug\net10.0\C#.Net_Assignment_4.exe
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\bin\Debug\net10.0\C#.Net_Assignment_4.deps.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\bin\Debug\net10.0\C#.Net_Assignment_4.runtimeconfig.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\bin\Debug\net10.0\C#.Net_Assignment_4.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\bin\Debug\net10.0\C#.Net_Assignment_4.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.AssemblyInfo.cs
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\refint\C#.Net_Assignment_4.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\C#.Net_Assignment_4.genruntimeconfig.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Assignment_4\obj\Debug\net10.0\ref\C#.Net_Assignment_4.dll
