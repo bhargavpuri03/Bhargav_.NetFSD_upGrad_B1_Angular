@@ -1,0 +1,14 @@
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.AssemblyInfo.cs
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\bin\Debug\net10.0\C#.Net_LINQAssignment.exe
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\bin\Debug\net10.0\C#.Net_LINQAssignment.deps.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\bin\Debug\net10.0\C#.Net_LINQAssignment.runtimeconfig.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\bin\Debug\net10.0\C#.Net_LINQAssignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\bin\Debug\net10.0\C#.Net_LINQAssignment.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\refint\C#.Net_LINQAssignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\C#.Net_LINQAssignment.genruntimeconfig.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_LINQAssignment\obj\Debug\net10.0\ref\C#.Net_LINQAssignment.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\c#.net_linqassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:c#.net_linqassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_linqassignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E48ED-E47E-4FED-82A9-5E2FCF09EC5A}|C#.Net_LINQAssignment.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#.Net_LINQAssignment",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\C#.Net_LINQAssignment.csproj",
+              "RelativeDocumentMoniker": "C#.Net_LINQAssignment.csproj",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\C#.Net_LINQAssignment.csproj",
+              "RelativeToolTip": "C#.Net_LINQAssignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T05:27:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class4.cs",
+              "RelativeDocumentMoniker": "Class4.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class4.cs",
+              "RelativeToolTip": "Class4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:05:30.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class5.cs",
+              "RelativeDocumentMoniker": "Class5.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class5.cs",
+              "RelativeToolTip": "Class5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:05:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class6.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class6.cs",
+              "RelativeDocumentMoniker": "Class6.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class6.cs",
+              "RelativeToolTip": "Class6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:06:05.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class3.cs",
+              "RelativeDocumentMoniker": "Class3.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class3.cs",
+              "RelativeToolTip": "Class3.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:05:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class7.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class7.cs",
+              "RelativeDocumentMoniker": "Class7.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class7.cs",
+              "RelativeToolTip": "Class7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:06:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class8.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class8.cs",
+              "RelativeDocumentMoniker": "Class8.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class8.cs",
+              "RelativeToolTip": "Class8.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:09:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class9.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class9.cs",
+              "RelativeDocumentMoniker": "Class9.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class9.cs",
+              "RelativeToolTip": "Class9.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:09:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:00:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:04:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_LINQAssignment\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:04:34.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
