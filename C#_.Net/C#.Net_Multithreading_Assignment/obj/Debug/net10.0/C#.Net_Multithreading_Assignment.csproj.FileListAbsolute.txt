@@ -1,0 +1,14 @@
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\bin\Debug\net10.0\C#.Net_Multithreading_Assignment.exe
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\bin\Debug\net10.0\C#.Net_Multithreading_Assignment.deps.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\bin\Debug\net10.0\C#.Net_Multithreading_Assignment.runtimeconfig.json
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\bin\Debug\net10.0\C#.Net_Multithreading_Assignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\bin\Debug\net10.0\C#.Net_Multithreading_Assignment.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.AssemblyInfo.cs
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\refint\C#.Net_Multithreading_Assignment.dll
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.pdb
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\C#.Net_Multithreading_Assignment.genruntimeconfig.cache
+D:\DotNet(Angular)\C#.Net\Hands On\C#.Net_Multithreading_Assignment\obj\Debug\net10.0\ref\C#.Net_Multithreading_Assignment.dll

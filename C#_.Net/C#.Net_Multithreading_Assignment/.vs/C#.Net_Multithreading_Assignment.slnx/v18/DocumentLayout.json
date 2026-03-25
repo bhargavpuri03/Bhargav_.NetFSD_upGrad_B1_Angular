@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_multithreading_assignment\\c#.net_multithreading_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|solutionrelative:c#.net_multithreading_assignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_multithreading_assignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|d:\\dotnet(angular)\\c#.net\\hands on\\c#.net_multithreading_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D447A19C-04C4-4990-A063-762D0C803060}|C#.Net_Multithreading_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C#.Net_Multithreading_Assignment",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\C#.Net_Multithreading_Assignment.csproj",
+              "RelativeDocumentMoniker": "C#.Net_Multithreading_Assignment.csproj",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\C#.Net_Multithreading_Assignment.csproj",
+              "RelativeToolTip": "C#.Net_Multithreading_Assignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T06:42:35.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:42:08.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\C#.Net\\Hands On\\C#.Net_Multithreading_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:41:33.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
