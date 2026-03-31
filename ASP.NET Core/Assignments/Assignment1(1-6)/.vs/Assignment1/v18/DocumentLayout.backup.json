@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|d:\\dotnet(angular)\\asp.net\\handson\\assignments\\assignment1(1-6)\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|d:\\dotnet(angular)\\asp.net\\handson\\assignments\\assignment1(1-6)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|d:\\dotnet(angular)\\asp.net\\handson\\assignments\\assignment1(1-6)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBE11C9-8B68-399E-07AF-B0CB580D0532}|Assignment1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:39:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:39:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet(Angular)\\ASP.net\\Handson\\Assignments\\Assignment1(1-6)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:35:54.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

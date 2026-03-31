@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Student List";
+    var students = ViewBag.Students as List<string>;
+}
+
+<div class="custom-box">
+    <h2 class="text-primary">List of Students</h2>
+
+    @foreach(var student in students)
+    {
+        <p>@student</p>
+    }
+</div>

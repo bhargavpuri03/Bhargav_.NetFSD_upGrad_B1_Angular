@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "ViewBag vs ViewData";
+
+    int age = ViewData["Age"] is int n ? n : 0;
+}
+
+<h2>Student Info</h2>
+
+<p><strong>Name (ViewBag):</strong> @ViewBag.Name</p>
+<p><strong>Age (ViewData):</strong> @age</p>

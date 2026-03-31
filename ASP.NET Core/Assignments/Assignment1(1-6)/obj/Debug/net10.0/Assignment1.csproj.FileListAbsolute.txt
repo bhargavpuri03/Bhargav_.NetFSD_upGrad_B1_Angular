@@ -1,0 +1,293 @@
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\appsettings.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.staticwebassets.endpoints.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.exe
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.deps.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.runtimeconfig.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.dll
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\bin\Debug\net10.0\Assignment1.pdb
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfo.cs
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\vc79v61i4a-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\arbboil0q5-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\epi0lsnnkw-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\nbn3voxv4y-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\2va62hck8t-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\ltxphv5k0y-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\z3o3l1gh6i-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\w6ktgx6hox-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\m60bmowybn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\k0i32bhwdd-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\qwgcf16lrw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\x2p3vo3psd-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\9zn3vo532g-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\dzjtjsfwsm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\oub0u25s5l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\hcbncbi43x-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\281tqkjmla-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\odrd1wyn8c-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\vqf5i40r3a-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\pvp84xg6nw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\f6cvu132s7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\s38spituq0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\firs539oib-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\vhc30p50bq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\9e2itelqia-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\dvmzb8tufd-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\qw4wemx9eb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\4as479zpij-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\datdw686fs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\qxw16rehmu-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\5kqj28og3f-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\qwerl3e4ek-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\8ygm4gfcox-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\j73nacn7nw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\jnimmwfpqv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\v5jo26kzvn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\9v9q97w6t4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\jl4z13hrwk-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\a9bmm5zzkc-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\ztbyhccv3b-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\obvsd9f4sl-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\uj5qs8xy81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\pmw54qg5c7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\qwuxjieigm-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\i5cm955nja-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\mwv8sja4en-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\tq3081j641-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\5yt2f0kyxa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\4qangtsegs-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\zecv4h1vlh-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\t0llwd07vu-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\w3528qgpu7-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\9204ptur76-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\vcv7srn35l-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\p47qen4o5w-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\nutxwbgd2r-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\u01nspfy1z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\i4obtl3tsl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\7gj8favpay-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\5fckqkxpzo-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\4pkz4xlpdt-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\p3ioknz49b-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\gdji1nemhh-{0}-t3ll6yn10a-t3ll6yn10a.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\compressed\zhs6x66po7-{0}-t3ll6yn10a-t3ll6yn10a.gz
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.dll
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\refint\Assignment1.dll
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.pdb
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\Assignment1.genruntimeconfig.cache
+C:\Users\Ashwin\Documents\Cognizant\ASP DOT NET CORE\Assignment\Assignment1\obj\Debug\net10.0\ref\Assignment1.dll
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\appsettings.Development.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\appsettings.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.staticwebassets.runtime.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.staticwebassets.endpoints.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.exe
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.deps.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.runtimeconfig.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.dll
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.pdb
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.AssemblyInfo.cs
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cs
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\bundle\Assignment1.styles.css
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\vc79v61i4a-{0}-lugek5hnai-lugek5hnai.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\arbboil0q5-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\epi0lsnnkw-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\nbn3voxv4y-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\2va62hck8t-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\ltxphv5k0y-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\z3o3l1gh6i-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\w6ktgx6hox-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\m60bmowybn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\k0i32bhwdd-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwgcf16lrw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\x2p3vo3psd-{0}-ub07r2b239-ub07r2b239.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\9zn3vo532g-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\dzjtjsfwsm-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\oub0u25s5l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\hcbncbi43x-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\281tqkjmla-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\odrd1wyn8c-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\vqf5i40r3a-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\pvp84xg6nw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\f6cvu132s7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\s38spituq0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\firs539oib-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\vhc30p50bq-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\9e2itelqia-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\dvmzb8tufd-{0}-06098lyss8-06098lyss8.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\qw4wemx9eb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\4as479zpij-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\datdw686fs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\qxw16rehmu-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\5kqj28og3f-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwerl3e4ek-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\8ygm4gfcox-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\j73nacn7nw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\jnimmwfpqv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\v5jo26kzvn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\9v9q97w6t4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\jl4z13hrwk-{0}-493y06b0oq-493y06b0oq.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\a9bmm5zzkc-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\ztbyhccv3b-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\obvsd9f4sl-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\uj5qs8xy81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\pmw54qg5c7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwuxjieigm-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\i5cm955nja-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\mwv8sja4en-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\tq3081j641-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\5yt2f0kyxa-{0}-47otxtyo56-47otxtyo56.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\4qangtsegs-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\zecv4h1vlh-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\t0llwd07vu-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\w3528qgpu7-{0}-qlccset4i1-qlccset4i1.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\9204ptur76-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\vcv7srn35l-{0}-ag7o75518u-ag7o75518u.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\p47qen4o5w-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\nutxwbgd2r-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\u01nspfy1z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\i4obtl3tsl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\7gj8favpay-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\5fckqkxpzo-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\4pkz4xlpdt-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\p3ioknz49b-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\gdji1nemhh-{0}-t3ll6yn10a-t3ll6yn10a.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\compressed\zhs6x66po7-{0}-t3ll6yn10a-t3ll6yn10a.gz
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.development.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\swae.build.ex.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.dll
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\refint\Assignment1.dll
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.pdb
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.genruntimeconfig.cache
+D:\DotNet(Angular)\ASP.NET CORE\Assignment\Assignment1(1-6)\obj\Debug\net10.0\ref\Assignment1.dll
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\appsettings.Development.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\appsettings.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.staticwebassets.endpoints.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.staticwebassets.runtime.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.exe
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.deps.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.runtimeconfig.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.dll
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\bin\Debug\net10.0\Assignment1.pdb
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.AssemblyInfoInputs.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.AssemblyInfo.cs
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.RazorAssemblyInfo.cs
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\bundle\Assignment1.styles.css
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\vc79v61i4a-{0}-lugek5hnai-lugek5hnai.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\arbboil0q5-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\epi0lsnnkw-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\nbn3voxv4y-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\2va62hck8t-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\ltxphv5k0y-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\z3o3l1gh6i-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\w6ktgx6hox-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\m60bmowybn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\k0i32bhwdd-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwgcf16lrw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\x2p3vo3psd-{0}-ub07r2b239-ub07r2b239.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\9zn3vo532g-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\dzjtjsfwsm-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\oub0u25s5l-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\hcbncbi43x-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\281tqkjmla-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\odrd1wyn8c-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\vqf5i40r3a-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\pvp84xg6nw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\f6cvu132s7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\s38spituq0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\firs539oib-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\vhc30p50bq-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\9e2itelqia-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\dvmzb8tufd-{0}-06098lyss8-06098lyss8.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\qw4wemx9eb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\4as479zpij-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\datdw686fs-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\qxw16rehmu-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\5kqj28og3f-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwerl3e4ek-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\8ygm4gfcox-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\j73nacn7nw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\jnimmwfpqv-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\v5jo26kzvn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\9v9q97w6t4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\jl4z13hrwk-{0}-493y06b0oq-493y06b0oq.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\a9bmm5zzkc-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\ztbyhccv3b-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\obvsd9f4sl-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\uj5qs8xy81-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\pmw54qg5c7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\qwuxjieigm-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\i5cm955nja-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\mwv8sja4en-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\tq3081j641-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\5yt2f0kyxa-{0}-47otxtyo56-47otxtyo56.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\4qangtsegs-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\zecv4h1vlh-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\t0llwd07vu-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\w3528qgpu7-{0}-qlccset4i1-qlccset4i1.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\9204ptur76-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\vcv7srn35l-{0}-ag7o75518u-ag7o75518u.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\p47qen4o5w-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\nutxwbgd2r-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\u01nspfy1z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\i4obtl3tsl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\7gj8favpay-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\5fckqkxpzo-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\4pkz4xlpdt-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\p3ioknz49b-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\gdji1nemhh-{0}-t3ll6yn10a-t3ll6yn10a.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\compressed\zhs6x66po7-{0}-t3ll6yn10a-t3ll6yn10a.gz
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.development.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\swae.build.ex.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.dll
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\refint\Assignment1.dll
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.pdb
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\Assignment1.genruntimeconfig.cache
+D:\DotNet(Angular)\ASP.net\Handson\Assignments\Assignment1(1-6)\obj\Debug\net10.0\ref\Assignment1.dll

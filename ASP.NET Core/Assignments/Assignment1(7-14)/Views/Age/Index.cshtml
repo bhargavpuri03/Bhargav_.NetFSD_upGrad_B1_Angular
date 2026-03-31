@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Age Eligibility";
+    int age = ViewBag.Age;
+}
+
+<div class="custom-box">
+    <h2 class="text-primary">Voting Eligibility Check</h2>
+
+    @if(age >= 18)
+    {
+        <p>Eligible to vote</p>
+    }
+    else
+    {
+        <p>Not eligible</p>
+    }
+</div>

@@ -1,0 +1,36 @@
+@model Assignment2.Models.Student
+
+<h2>Student Form (HTML Helpers)</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Name:</label>
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div>
+        <label>Age:</label>
+        @Html.TextBoxFor(m => m.Age, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Age, "", new { @class = "text-danger" })
+    </div>
+
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+}
+
+@if(ViewBag.Message != null)
+{
+    <p class="text-success">@ViewBag.Message</p>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

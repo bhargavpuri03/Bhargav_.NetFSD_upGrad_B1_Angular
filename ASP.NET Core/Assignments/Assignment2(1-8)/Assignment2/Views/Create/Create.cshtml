@@ -1,0 +1,37 @@
+@model Assignment2.Models.Student
+
+<h2>Create Student (Tag Helpers)</h2>
+
+<form asp-action="Create" asp-controller="Create" method="post">
+
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Age:</label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-success">Create</button>
+
+</form>
+
+@if(ViewBag.Message != null)
+{
+    <p class="text-success">@ViewBag.Message</p>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
