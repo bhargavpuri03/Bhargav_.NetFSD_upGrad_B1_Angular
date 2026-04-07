@@ -1,0 +1,15 @@
+using System;
+
+namespace Dapper1.Models
+{
+    public class Book
+    {
+        public int BookId { get; set; }
+        public string? Title { get; set; }
+        public decimal Price { get; set; }
+        public string? Author { get; set; }
+        public string? Publisher { get; set; }
+        public string? Language { get; set; }
+        public DateTime PublicationDate { get; set; }
+    }
+}
